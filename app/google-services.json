@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "19420630372",
+    "project_id": "equisplit-3c371",
+    "storage_bucket": "equisplit-3c371.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19420630372:android:0370d2496d1834b8acbe71",
+        "android_client_info": {
+          "package_name": "com.example.equi_split_try1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19420630372-v0did2rg1n8m8h7k63niojqcelb1k45h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbeAMskTA9Ie6NkZjMDuBKYYIWTxqCfsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19420630372-v0did2rg1n8m8h7k63niojqcelb1k45h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

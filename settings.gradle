@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Equi_SPLIT_try1"

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:background="#fff"
+    android:orientation="vertical"
+
+
+    >
+    <LinearLayout
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="103dp"
+        android:layout_alignParentTop="true"
+
+        android:background="#5b39c6"
+        android:gravity="center"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:text="Events             "
+            android:textColor="#fff"
+            android:textSize="40sp" />
+
+        <Button
+            android:id="@+id/btn_add_event"
+            android:layout_width="143dp"
+
+            android:layout_height="52dp"
+            android:background="@drawable/rounded_corners"
+            android:drawableLeft="@drawable/ic_add"
+            android:paddingHorizontal="20dp"
+            android:text="ADD Event"
+            android:textColor="#7b4397"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/layout_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"></LinearLayout>
+
+
+</LinearLayout>
